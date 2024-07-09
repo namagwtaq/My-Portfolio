@@ -19,7 +19,7 @@ export default function Contact() {
                 type="text"
                 placeholder="First Name"
                 name="name"
-                className="w-full rounded-lg bg-white bg-opacity-30 px-4 py-2 placeholder:text-slate-400"
+                className="w-full rounded-lg bg-white bg-opacity-30 px-4 py-2 text-white placeholder:text-slate-400"
               />
             </div>
             <div className="form-group w-full lg:w-1/2">
@@ -27,7 +27,7 @@ export default function Contact() {
                 type="email"
                 placeholder="Email"
                 name="email"
-                className="w-full rounded-lg bg-white bg-opacity-30 px-4 py-2 placeholder:text-slate-400"
+                className="w-full rounded-lg bg-white bg-opacity-30 px-4 py-2 text-white placeholder:text-slate-400"
               />
             </div>
           </div>
@@ -37,7 +37,7 @@ export default function Contact() {
               id="message"
               rows={8}
               placeholder="Type your message"
-              className="w-full rounded-lg bg-white bg-opacity-30 px-4 py-2 placeholder:text-slate-400"
+              className="w-full rounded-lg bg-white bg-opacity-30 px-4 py-2 text-white placeholder:text-slate-400"
             ></textarea>
           </div>
           <div className="form-group mt-2">
