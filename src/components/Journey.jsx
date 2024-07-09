@@ -20,7 +20,7 @@ export default function Journey() {
             <time className="mb-1 text-sm font-normal leading-none text-gray-400">
               2007 - 2014
             </time>
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Madrasah Ibtidaiyah Yahya
             </h3>
             <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
@@ -33,7 +33,7 @@ export default function Journey() {
             <time className="mb-1 text-sm font-normal leading-none text-gray-400">
               2014 - 2017
             </time>
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Madrasah Tsanawiyah Zakaria
             </h3>
             <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
@@ -45,7 +45,7 @@ export default function Journey() {
             <time className="mb-1 text-sm font-normal leading-none text-gray-400">
               2017 - 2020
             </time>
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Madrasah Aliyah Zakaria
             </h3>
             <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
@@ -59,7 +59,7 @@ export default function Journey() {
             <time className="mb-1 text-sm font-normal leading-none text-gray-400">
               2020 - current
             </time>
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Gunadarma University
             </h3>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">
