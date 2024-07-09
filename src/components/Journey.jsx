@@ -17,7 +17,7 @@ export default function Journey() {
         <ol className="relative border-s border-gray-200 dark:border-gray-700">
           <li className="mb-10 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-[#e85f5b]"></div>
-            <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+            <time className="mb-1 text-sm font-normal leading-none text-gray-400">
               2007 - 2014
             </time>
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
@@ -30,7 +30,7 @@ export default function Journey() {
           </li>
           <li className="mb-10 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-[#e85f5b]"></div>
-            <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+            <time className="mb-1 text-sm font-normal leading-none text-gray-400">
               2014 - 2017
             </time>
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
@@ -42,7 +42,7 @@ export default function Journey() {
           </li>
           <li className="mb-10 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-[#e85f5b]"></div>
-            <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+            <time className="mb-1 text-sm font-normal leading-none text-gray-400">
               2017 - 2020
             </time>
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
@@ -56,7 +56,7 @@ export default function Journey() {
           </li>
           <li className="mb-10 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-[#e85f5b]"></div>
-            <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+            <time className="mb-1 text-sm font-normal leading-none text-gray-400">
               2020 - current
             </time>
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
