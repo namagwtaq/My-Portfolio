@@ -118,7 +118,7 @@ export default function Contact() {
           </h2>
           <div className="mt-8 flex justify-center gap-x-6 md:justify-start">
             <Link
-              href="https://www.linkedin.com/in/mahdy-mubasyir-699424210"
+              href="#"
               target="_blank"
             >
               <svg
