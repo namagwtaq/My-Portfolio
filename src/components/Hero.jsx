@@ -16,7 +16,7 @@ export default function Hero() {
         <div className="">
           {/* <div className="mx-auto h-40 w-40 rounded-full bg-slate-300"></div> */}
           <Image
-            src="/profile.jpg"
+            src="/photo Taqi.jpg"
             width={200}
             height={200}
             alt="photo-profile"
@@ -27,10 +27,10 @@ export default function Hero() {
               className="text-3xl font-bold text-white lg:text-5xl"
               style={nosifer.style}
             >
-              <span className="text-[#e85f5b]">Mahdy</span> Mubasyir
+              <span className="text-[#e85f5b]">Taqi</span> Mundzir 
             </h1>
             <p className="mt-3 text-base text-white lg:text-xl">
-              Fullstack Developer
+              Electrical Engineer
             </p>
           </div>
         </div>

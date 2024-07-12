@@ -26,11 +26,7 @@ export default function About() {
               <div className="h-1 w-20 bg-[#e85f5b]"></div>
             </div>
             <p className="text-justify indent-8 text-white">
-              As a Web Developer, I have experience developing efficient and
-              responsive web applications. My main expertise lies in using
-              JavaScript to build powerful and dynamic applications. I am
-              currently deepening my knowledge in the field of Web Development,
-              especially frontend.
+            Undergradute student of Universitas Pembangunan Nasional &#34;veteran&#34; jakarta who is full of enthusiasm and ready to brng positive energy to profesional world. I love learning new things to develop my soft-skills and hard skills.
             </p>
             <div className="mt-10 flex justify-between">
               <button className="my-auto w-fit bg-[#e85f5b] px-4 py-2 text-white hover:bg-[#c8534f]">

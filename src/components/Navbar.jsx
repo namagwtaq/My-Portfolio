@@ -51,7 +51,7 @@ export default function Navbar() {
       <div className="hidden w-full px-10 text-white md:flex md:justify-between">
         <div className="">
           <h3 style={slackey.style}>
-            Maher<span className="text-[#e85f5b]">19</span>
+            <span className="text-[#e85f5b]">Taqi</span> Mundzir
           </h3>
         </div>
         <div className="flex gap-x-8">

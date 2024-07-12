@@ -18,7 +18,7 @@ export default function Journey() {
           <li className="mb-10 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-[#e85f5b]"></div>
             <time className="mb-1 text-sm font-normal leading-none text-gray-400">
-              2007 - 2014
+              2010 - 2016
             </time>
             <h3 className="text-lg font-semibold text-white">
               Madrasah Ibtidaiyah Yahya
@@ -31,7 +31,7 @@ export default function Journey() {
           <li className="mb-10 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-[#e85f5b]"></div>
             <time className="mb-1 text-sm font-normal leading-none text-gray-400">
-              2014 - 2017
+              2016 - 2019
             </time>
             <h3 className="text-lg font-semibold text-white">
               Madrasah Tsanawiyah Zakaria
@@ -43,7 +43,7 @@ export default function Journey() {
           <li className="mb-10 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-[#e85f5b]"></div>
             <time className="mb-1 text-sm font-normal leading-none text-gray-400">
-              2017 - 2020
+              2019 - 2022
             </time>
             <h3 className="text-lg font-semibold text-white">
               Madrasah Aliyah Zakaria
@@ -57,10 +57,10 @@ export default function Journey() {
           <li className="mb-10 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-[#e85f5b]"></div>
             <time className="mb-1 text-sm font-normal leading-none text-gray-400">
-              2020 - current
+              2022 - current
             </time>
             <h3 className="text-lg font-semibold text-white">
-              Gunadarma University
+            Universitas Pembangunan Nasional &#34;Veteran&#34; Jakarta
             </h3>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">
               Faculty of Industrial Technology, Departmen of Informatic

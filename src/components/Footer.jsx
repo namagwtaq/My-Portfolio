@@ -13,7 +13,7 @@ export default function Footer() {
       <div className="">
         <div className="">
           <h3 className="text-center text-2xl text-white" style={slackey.style}>
-            Maher<span className="text-[#e85f5b]">19</span>
+            <span className="text-[#e85f5b]">Taqi</span> Mundzir
           </h3>
           <div className="mx-auto mt-1 h-1 w-20 bg-[#e85f5b]"></div>
         </div>
@@ -38,15 +38,11 @@ export default function Footer() {
         </div>
         <div className="mt-8 text-center">
           <p className="my-auto text-xs text-white">
-            Made with &#x2764;&#xfe0f; by Maher
-            <span className="text-[#e85f5b]">19</span>
+            Made with &#x2764;&#xfe0f; by
+            <span className="text-[#e85f5b]">Taq</span>
           </p>
         </div>
       </div>
-      {/* <p className="absolute bottom-10 right-10 my-auto text-xs text-white">
-        Made with &#x2764;&#xfe0f; by Maher
-        <span className="text-[#e85f5b]">19</span>
-      </p> */}
     </footer>
   );
 }
